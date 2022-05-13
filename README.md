@@ -1,7 +1,5 @@
-Hi there 👋 I'm Quan Phan, data analyst intern @ Holistics Data.
+Hi there 👋 I'm Quan Phan, a data analyst intern @ Holistics. 💻 
 
-I’m super interested in the applications of Machine Learning and Data Science for social good. 👀. 
-
-I'm working to improve my data science skills 🌱. Feel free to reach out if you want to join!
+I’m super interested in Machine Learning and Data Science for social good 🌱 so feel free to reach out if you want to chat ☕ about this! 
 
 Anyhow, have a nice day! 🤟
